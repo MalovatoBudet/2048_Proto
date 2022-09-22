@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60e385232132d66448b55242b8911d81, type: 3}
+  m_Name: BallSettings
+  m_EditorClassIdentifier: 
+  BallMaterials:
+  - {fileID: 2100000, guid: 143a06afa3f2ffa4fb2758a3b99fde3c, type: 2}
+  - {fileID: 2100000, guid: 1eb95ca0b89e87b48974e2908664e8d9, type: 2}
+  - {fileID: 2100000, guid: b61cb89165584e543a0b38f771502243, type: 2}
+  - {fileID: 2100000, guid: 2d36964a36be1da489c8d968fc322d2a, type: 2}
+  - {fileID: 2100000, guid: 326fc47f62fe3564f94a83372e07db11, type: 2}
+  - {fileID: 2100000, guid: 64034e998f3477344a4088640da6a0af, type: 2}
+  - {fileID: 2100000, guid: 5b289933a47b71b489490fac1db8eeb0, type: 2}
+  - {fileID: 2100000, guid: 6578b10f1d49bd24f8e442303b847d1a, type: 2}
+  - {fileID: 2100000, guid: 22061cf15c4da2c489f569a1762de243, type: 2}
+  - {fileID: 2100000, guid: 8c85b59beb4297b43ac5579590a4dd37, type: 2}
+  - {fileID: 2100000, guid: 01ffef27480ab524ca9ae43ee3a17eb3, type: 2}
+  BallTransparentMaterials:
+  - {fileID: 2100000, guid: 43fd3356e2f2edd4290b1f05d6190fd6, type: 2}
+  - {fileID: 2100000, guid: 952a7f222f80dfe448494b8b15dd32c1, type: 2}
+  - {fileID: 2100000, guid: a938fcdc7d365f44cbf263e918d3aafe, type: 2}
+  - {fileID: 2100000, guid: 63a4b9cb3f26f964ea39e237a3e874b3, type: 2}
+  - {fileID: 2100000, guid: 061cee27d1eb4dc42ac11a984d1f154c, type: 2}
+  - {fileID: 2100000, guid: de63b2f17fb5b634589b639f3a0aa03f, type: 2}
+  - {fileID: 2100000, guid: bdad10869c5c9c54d9a5219fb4ba2c65, type: 2}
+  - {fileID: 2100000, guid: 6c25b96f0e9bcd2488023ff22566c9ca, type: 2}
+  - {fileID: 2100000, guid: bbc1bd37207d98b41a024009f83b04a7, type: 2}
+  - {fileID: 2100000, guid: 0e51559cb9d689f40be51e0f5042c484, type: 2}
+  - {fileID: 2100000, guid: 9db9be4e53ea4a246b2d59bea20bac63, type: 2}
